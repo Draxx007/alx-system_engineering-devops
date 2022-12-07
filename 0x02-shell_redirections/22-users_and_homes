@@ -1,2 +1,0 @@
-#!/bin/bash
-cat -d ':' -f | etc/passwd | sort
